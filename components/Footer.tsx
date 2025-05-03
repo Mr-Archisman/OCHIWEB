@@ -80,7 +80,7 @@ export default function Footer() {
 								E:
 							</h1>
 							<LinkHover
-								title="hello@ochi.design"
+								title="hello@sick.design"
 								href="/"
 								className="before:h-[1px] after:h-[1px] paragraph font-medium before:bottom-[-3px] after:bottom-[-3px]"
 							/>

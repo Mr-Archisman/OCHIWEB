@@ -1313,7 +1313,7 @@ export const FaqItems = [
          {
             id: 2,
             title: 2,
-            description: "If you think you can improve our processes, marketing, PR, and communications, or you excel at managing people, we would love to hear from you. Send your message to hello@ochi.design with “-” and we will get back to you."
+            description: "If you think you can improve our processes, marketing, PR, and communications, or you excel at managing people, we would love to hear from you. Send your message to hello@sick.design with “-” and we will get back to you."
          },
       ],
       button: "read"
